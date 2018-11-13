@@ -1,8 +1,8 @@
 # Neighborhood App
 
 ## Description:
-Udacity final project for React. It's a map that with selected markers, when clicked the markers will have a reaction
-(change of color or animation) and display a window with specific information about that place.
+Udacity final project for React. It's a map that displays selected markers, when clicked the markers will have a reaction
+(change of color or animation) and display a window with specific information about that place. You will also be able to search and filter by name.
 
 ## Library and codes:
 - [Reactjs.](https://reactjs.org/)
