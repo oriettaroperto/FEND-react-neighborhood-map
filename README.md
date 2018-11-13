@@ -5,10 +5,10 @@ Udacity final project for React. It's a map that with selected markers, when cli
 (change of color or animation) and display a window with specific information about that place.
 
 ## Library and codes:
-[Reactjs.](https://reactjs.org/)
-[Google Maps API.](https://developers.google.com/maps/documentation/javascript/tutorial)
-[Foursquare API.](https://developer.foursquare.com/)
-[Poject Rubrics.](https://review.udacity.com/#!/rubrics/1351/view)
+- [Reactjs.](https://reactjs.org/)
+- [Google Maps API.](https://developers.google.com/maps/documentation/javascript/tutorial)
+- [Foursquare API.](https://developer.foursquare.com/)
+- [Poject Rubrics.](https://review.udacity.com/#!/rubrics/1351/view)
 
 
 ## How to use:
